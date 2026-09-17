@@ -14,7 +14,7 @@
 ## 🚀 Key Architectural Features
 
 * 💎 **Extreme Optimization (3.5 MB APK):** Built strictly from scratch using custom components. It avoids heavy third-party frameworks, utilizing the native Chrome engine via WebView for low-latency WebRTC video routing to maintain a feather-light package.
-* 🪙 **Native Crypto-Economy:** Powered by the **BTCD token** with robust `BigInteger` precision tracking. Supports transparent peer-to-peer donations, paid channel subscriptions, and in-app transactions with direct on-chain verification and withdrawal options.
+* ₿ **Native Crypto-Economy:** Powered by the **BTCD token** with robust `BigInteger` precision tracking. Supports transparent peer-to-peer donations, paid channel subscriptions, and in-app transactions with direct on-chain verification and withdrawal options.
 * 🏷️ **Hashtag-Driven Organic Discovery:** A lightweight server-side ranking algorithm based on channel activity metrics (subscriber count, posting velocity). It enables creators to organically grow their audience via keywords like `#music`, `#news`, or `#tech` without requiring massive ad budgets.
 * 🎙️ **AI-Powered Live Voice Chats:** Integrated GPT Voice Live companion for real-time, interactive voice communication and hands-free intelligence directly inside the app.
 * 🔒 **Privacy & Zero-Data Retention:** Uncompromising security architecture that requires **no phone number for registration** (uses Google Account token exchange) and does not store chat history on the server—messages are automatically deleted once read.
