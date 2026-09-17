@@ -50,5 +50,5 @@ This repository serves as a live, production-tested showcase of **Digital City (
 
 If you are a startup founder looking for a technical architect, CTO, or an elite engineer capable of building high-performance MVPs, scalable backend systems, and ultra-optimized mobile apps under tight deadlines, let's connect.
 
-* 🏢 **GitHub Organization:** [bitcord-network](https://github.com)
+* 🏢 **GitHub Organization:** [bitcord-network](https://github.com/bitcord-network/)
 * 🌆 **Parent Ecosystem:** Digital City (`digci`)
