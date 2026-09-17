@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://apkpure.com/bitcord/com.digci.link"><img src="https://shields.io" alt="Download APK"></a>
-  <a href="https://habr.com"><img src="https://shields.io" alt="Habr Article"></a>
+  <a href="https://apkpure.com/bitcord/com.digci.link"><img src="https://img.shields.io/badge/Download-APK-green" alt="Download APK"></a>
+  <a href="[https://habr.com](https://habr.com/ru/articles/1054174/)"><img src="https://img.shields.io/badge/Read-Habr-purple" alt="Habr Article"></a>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 
 For a comprehensive technical breakdown of how the architecture was built, the in-app tokenomics design, and optimization strategies, read the full case study on **Habr**:
 
-👉 **[Read the Full Case Study on Habr](https://habr.com)** *(in Russian)*
+👉 **[Read the Full Case Study on Habr](https://habr.com/ru/articles/1054174/)** *(in Russian)*
 
 ---
 
