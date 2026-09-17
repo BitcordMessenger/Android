@@ -33,8 +33,7 @@
 
 For a comprehensive technical breakdown of how the architecture was built, the in-app tokenomics design, and optimization strategies, read the full case study on **Habr**:
 
-👉 **[Read the Full Case Study on Habr](https://habr.com/ru/articles/1054174/)** *(in Russian)*
-
+👉 **[Read the Full Case Study on Habr](https://habr.com/ru/articles/1054174/)** 
 ---
 
 ## 📲 Installation
