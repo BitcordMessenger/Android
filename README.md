@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://apkpure.com/bitcord/com.digci.link"><img src="https://img.shields.io/badge/Download-APK-green" alt="Download APK"></a>
-  <a href="[https://habr.com](https://habr.com/ru/articles/1054174/)"><img src="https://img.shields.io/badge/Read-Habr-purple" alt="Habr Article"></a>
+  <a href="https://habr.com/ru/articles/1054174/"><img src="https://img.shields.io/badge/Read-Habr-purple" alt="Habr Article"></a>
 </p>
 
 ---
