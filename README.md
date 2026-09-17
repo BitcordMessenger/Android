@@ -1,4 +1,4 @@
-# 🌆 Bitcord — Ultra-Lightweight Web3 Messenger & Social Ecosystem
+# 🌆 Bitcord — Ultra-Lightweight Messenger & Social Ecosystem
 
 <p align="center">
   <b>A high-performance, production-ready Android messenger and social ecosystem packed into an extremely optimized 3.5 MB APK.</b>
