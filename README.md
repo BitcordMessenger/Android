@@ -1,4 +1,4 @@
-# Bitcord - Ultra-Lightweight Messenger & Social Ecosystem
+# Bitcord Messenger is an Ultra-Lightweight Social Network includes own cryptoeconomy.
 
 <p align="center">
   <b>A high-performance, production-ready Android messenger and social ecosystem packed into an extremely optimized 3.5 MB APK with a built-in token economy.</b>
